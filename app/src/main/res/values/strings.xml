@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string name="text1">Enter Text!</string>
+    <string name="text2">Meet You Soon!</string>
+    <string name="changeText">click here!</string>
+
+</resources>
