@@ -3,5 +3,16 @@
     <string name="text1">Enter Text!</string>
     <string name="text2">Meet You Soon!</string>
     <string name="changeText">click here!</string>
+    <string name="MobileNO">Enter  Mobile Number</string>
+    <string name="Submit">Submit</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Skip">Skip</string>
+    <string name="name">Name</string>
+    <string name="shopName">Shop Name</string>
+    <string name="customerList">Customer List</string>
+    <string name="addCustomer">Add Customer</string>
+    <string name="login">Login</string>
+    <string name="logout">LogOut</string>
+
 
 </resources>
